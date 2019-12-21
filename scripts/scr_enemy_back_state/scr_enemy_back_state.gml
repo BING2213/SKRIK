@@ -1,3 +1,4 @@
+scr_check_for_player()
 if(point_direction(x,y,obj_player.x,obj_player.y)<sight)
 {
 	scr_check_for_player()
